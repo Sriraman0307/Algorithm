@@ -1,0 +1,1 @@
+This code accepts an input file, reads the data and generates result for DFS, BFS and Topological sort algorithms.
